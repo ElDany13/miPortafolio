@@ -1,0 +1,128 @@
+* {
+    font-family: Helvetica, sans-serif, Arial;
+    font-size: 1rem;
+}
+
+.border {
+    border: solid;
+}
+
+.margin-left-10 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.text-green {
+    color: #317B31;
+}
+
+.text-aling-center {
+    text-align: center;
+}
+
+.position-fixed {
+    position: fixed;
+    z-index: 9;
+    left: 0;
+}
+
+.center-img {
+    display: flex;
+    justify-content: center;
+    margin: 5px 0px;
+}
+
+.margin-bottom-10 {
+    margin-bottom: 10px;
+}
+
+.border-top-bottom {
+    border-top: solid;
+    border-bottom: solid;
+}
+
+.border-bottom {
+    border-bottom: solid;
+}
+
+.navigator {
+    text-align: center;
+    overflow: hidden;
+}
+
+.pic-profile {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.main-border {
+    width: 80%;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.bg-color-body {
+    background: linear-gradient(to bottom, #6C6F70, #B7CACD)
+}
+
+.bg-color-header {
+    background: white;
+}
+
+h4 {
+    color: #317B31;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+
+.social-list {
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.social-list-center {
+    margin: 0 auto;
+}
+
+.card-margin-top {
+    margin-top: 10px;
+}
+
+.about-me-p {
+    padding: 5px 10px;
+}
+
+.about-me-list {
+    padding: 0;
+    list-style: none;
+}
+
+.about-me-span {
+    font-weight: 300;
+}
+
+.span-date {
+    background: #6dff6d;
+    border-radius: 5px;
+    overflow: hidden;
+    padding: 1px;
+}
+
+.message {
+    width: 80%;
+    height: 30px;
+}
+
+.button {
+    padding: 10px 15px;
+    border-color: transparent;
+    border-radius: 5px;
+    background-color: #48c774;
+    color: #fff;
+    margin-top: 10px;
+  }
